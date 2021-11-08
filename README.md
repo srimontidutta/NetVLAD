@@ -1,5 +1,5 @@
 # NetVLAD - A Pytorch Implementation
-This repository consists of Pytorch implementation of NetVLAD & Online Hardest Triplet Loss. 
+This repository consists of Pytorch implementation of NetVLAD & Hard Triplet Loss. 
 
 NetVLAD paper: https://arxiv.org/abs/1511.07247
 
