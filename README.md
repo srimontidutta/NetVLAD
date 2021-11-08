@@ -1,5 +1,5 @@
 # NetVLAD-Pytorch Implementation
-This reposiory consists of Pytorch implementation of NetVLAD & Online Hardest Triplet Loss. 
+This repository consists of Pytorch implementation of NetVLAD & Online Hardest Triplet Loss. 
 
 NetVLAD paper: https://arxiv.org/abs/1511.07247
 
@@ -29,7 +29,7 @@ This code has been run with sample datasets in folder "data" present in the repo
 
 ## Important Installation Notes
 
-1. Code may give URL errors if openSSL installed incorrectly. Fresh installation is required in this case.
+1. Code may give URL errors if openSSL is installed incorrectly. A fresh installation is required in this case.
 2. Code may give "Cuda not enabled" error for Cuda installation errors. Version check and fresh installation are required in this case.
-3. Code may give "DLL load failed" error when the code is unable to import numpy due to version mismatch, installation errors or path errors, especially when using conda env. This was resolved by doing a fresh installation of all dependencies using pip in Terminal. 
+3. Code may give "DLL load failed" error when the code is unable to import numpy due to version mismatch, installation errors, or path errors, especially when using conda env. This may be resolved by doing a fresh installation of all dependencies using pip in Terminal. 
 
